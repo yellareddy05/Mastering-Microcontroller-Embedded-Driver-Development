@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Ignore build artifacts
+build/
+*.o
+*.elf
+
+# Ignore IDE settings
+.vscode/
+*.swp
