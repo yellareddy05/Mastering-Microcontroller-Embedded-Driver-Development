@@ -1,1 +1,2 @@
 
+Store third-party libraries here (e.g., STM32 HAL drivers or FreeRTOS). This makes it clear where external dependencies are located
